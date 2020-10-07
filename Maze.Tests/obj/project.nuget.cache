@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "dW8E1Ls7p4VL3nSts6uL+LbWA5uOJUFpf1wH5xXzBNH4AdKUKAI3+90N5zw2UfjnSfg1DUaZx4nYVCGf/tkQEg==",
+  "success": true,
+  "projectFilePath": "D:\\HTL Leonding\\4. Klasse\\C#\\RobotMaze\\robot-maze-quiz-DanielKastenhofer\\Maze.Tests\\Maze.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.codecoverage\\16.8.0-preview-20200921-01\\microsoft.codecoverage.16.8.0-preview-20200921-01.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.net.test.sdk\\16.8.0-preview-20200921-01\\microsoft.net.test.sdk.16.8.0-preview-20200921-01.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\xunit\\2.4.1\\xunit.2.4.1.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\xunit.analyzers\\0.10.0\\xunit.analyzers.0.10.0.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\xunit.assert\\2.4.1\\xunit.assert.2.4.1.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\xunit.core\\2.4.1\\xunit.core.2.4.1.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\xunit.extensibility.core\\2.4.1\\xunit.extensibility.core.2.4.1.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\xunit.extensibility.execution\\2.4.1\\xunit.extensibility.execution.2.4.1.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}

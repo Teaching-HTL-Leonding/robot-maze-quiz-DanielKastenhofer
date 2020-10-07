@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\HTL Leonding\\4. Klasse\\C#\\RobotMaze\\robot-maze-quiz-DanielKastenhofer\\Maze.Tests\\Maze.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\HTL Leonding\\4. Klasse\\C#\\RobotMaze\\robot-maze-quiz-DanielKastenhofer\\Maze.Library\\Maze.Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\HTL Leonding\\4. Klasse\\C#\\RobotMaze\\robot-maze-quiz-DanielKastenhofer\\Maze.Library\\Maze.Library.csproj",
+        "projectName": "Maze.Library",
+        "projectPath": "D:\\HTL Leonding\\4. Klasse\\C#\\RobotMaze\\robot-maze-quiz-DanielKastenhofer\\Maze.Library\\Maze.Library.csproj",
+        "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+        "outputPath": "D:\\HTL Leonding\\4. Klasse\\C#\\RobotMaze\\robot-maze-quiz-DanielKastenhofer\\Maze.Library\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net50": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\HTL Leonding\\4. Klasse\\C#\\RobotMaze\\robot-maze-quiz-DanielKastenhofer\\Maze.Robot\\Maze.Robot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\HTL Leonding\\4. Klasse\\C#\\RobotMaze\\robot-maze-quiz-DanielKastenhofer\\Maze.Robot\\Maze.Robot.csproj",
+        "projectName": "Maze.Robot",
+        "projectPath": "D:\\HTL Leonding\\4. Klasse\\C#\\RobotMaze\\robot-maze-quiz-DanielKastenhofer\\Maze.Robot\\Maze.Robot.csproj",
+        "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+        "outputPath": "D:\\HTL Leonding\\4. Klasse\\C#\\RobotMaze\\robot-maze-quiz-DanielKastenhofer\\Maze.Robot\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net50": {
+            "projectReferences": {
+              "D:\\HTL Leonding\\4. Klasse\\C#\\RobotMaze\\robot-maze-quiz-DanielKastenhofer\\Maze.Library\\Maze.Library.csproj": {
+                "projectPath": "D:\\HTL Leonding\\4. Klasse\\C#\\RobotMaze\\robot-maze-quiz-DanielKastenhofer\\Maze.Library\\Maze.Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\HTL Leonding\\4. Klasse\\C#\\RobotMaze\\robot-maze-quiz-DanielKastenhofer\\Maze.Tests\\Maze.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\HTL Leonding\\4. Klasse\\C#\\RobotMaze\\robot-maze-quiz-DanielKastenhofer\\Maze.Tests\\Maze.Tests.csproj",
+        "projectName": "Maze.Tests",
+        "projectPath": "D:\\HTL Leonding\\4. Klasse\\C#\\RobotMaze\\robot-maze-quiz-DanielKastenhofer\\Maze.Tests\\Maze.Tests.csproj",
+        "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+        "outputPath": "D:\\HTL Leonding\\4. Klasse\\C#\\RobotMaze\\robot-maze-quiz-DanielKastenhofer\\Maze.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net50": {
+            "projectReferences": {
+              "D:\\HTL Leonding\\4. Klasse\\C#\\RobotMaze\\robot-maze-quiz-DanielKastenhofer\\Maze.Library\\Maze.Library.csproj": {
+                "projectPath": "D:\\HTL Leonding\\4. Klasse\\C#\\RobotMaze\\robot-maze-quiz-DanielKastenhofer\\Maze.Library\\Maze.Library.csproj"
+              },
+              "D:\\HTL Leonding\\4. Klasse\\C#\\RobotMaze\\robot-maze-quiz-DanielKastenhofer\\Maze.Robot\\Maze.Robot.csproj": {
+                "projectPath": "D:\\HTL Leonding\\4. Klasse\\C#\\RobotMaze\\robot-maze-quiz-DanielKastenhofer\\Maze.Robot\\Maze.Robot.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.8.0-preview-20200921-01, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
